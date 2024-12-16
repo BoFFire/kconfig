@@ -1,972 +1,963 @@
-# translation of kwriteconfig.po to dansk
-# Danish translation of kwriteconfig
-# Copyright (C).
-#
-# Erik Kjær Pedersen <erik@binghamton.edu>, 2003.
-# Keld Simonsen <keld@dkuug.dk>, 2008.
-# Martin Schlander <mschlander@opensuse.org>, 2008, 2014, 2015, 2016, 2017, 2018, 2019, 2020.
-# SPDX-FileCopyrightText: 2024 rasmus rosendahl-kaa <rasmus@rosendahl-kaa.name>
+# SPDX-FileCopyrightText: 2024 kali <skkalwar999@gmail.com>
 msgid ""
 msgstr ""
-"Project-Id-Version: kwriteconfig\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-11 02:17+0000\n"
-"PO-Revision-Date: 2024-10-21 13:07+0200\n"
-"Last-Translator: rasmus rosendahl-kaa <rasmus@rosendahl-kaa.name>\n"
-"Language-Team: Danish <kde-i18n-doc@kde.org>\n"
-"Language: da\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2024-12-14 01:48+0530\n"
+"Last-Translator: kali <skkalwar999@gmail.com>\n"
+"Language-Team: Sanskrit <kde-i18n-doc@kde.org>\n"
+"Language: sa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 24.08.2\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+"X-Generator: Lokalize 24.08.2\n"
 
 #: core/kconfig.cpp:936
 msgctxt "KConfig|"
 msgid "Please contact your system administrator."
-msgstr "Kontakt venligst din systemadministrator."
+msgstr "कृपया स्वस्य प्रणालीप्रशासकेन सह सम्पर्कं कुर्वन्तु।"
 
 #: core/kconfigini.cpp:568
 #, qt-format
 msgctxt "KConfigIniBackend|"
 msgid "Configuration file \"%1\" not writable.\n"
-msgstr "Indstillingsfilen \"%1\" er ikke skrivbar.\n"
+msgstr "विन्याससञ्चिका \"%1\" लेखनीया नास्ति ।\n"
 
 #: core/kemailsettings.cpp:128 core/kemailsettings.cpp:131
 #: core/kemailsettings.cpp:139
 msgctxt "KEMailSettings|"
 msgid "Default"
-msgstr "Standard"
+msgstr "मूलभूतम्‌"
 
 #: gui/kstandardactions.cpp:49
 msgctxt "go back|"
 msgid "&Back"
-msgstr "&Tilbage"
+msgstr "&पृष्ठभागः"
 
 #: gui/kstandardactions.cpp:56
 msgctxt "go forward|"
 msgid "&Forward"
-msgstr "&Frem"
+msgstr "&अग्रतः"
 
 #: gui/kstandardactions.cpp:63
 msgctxt "home page|"
 msgid "&Home"
-msgstr "&Hjem"
+msgstr "&गृहम्‌"
 
 #: gui/kstandardactions_p.h:67
 msgctxt "KStandardActions|"
 msgid "&New"
-msgstr "&Ny"
+msgstr "&नूतनम्‌"
 
 #: gui/kstandardactions_p.h:67
 msgctxt "KStandardActions|"
 msgid "Create new document"
-msgstr "Opret nyt dokument"
+msgstr "नूतनं दस्तावेजं रचयन्तु"
 
 #: gui/kstandardactions_p.h:68
 msgctxt "KStandardActions|"
 msgid "&Open…"
-msgstr "&Åbn…"
+msgstr "&उद्घाटित…"
 
 #: gui/kstandardactions_p.h:68
 msgctxt "KStandardActions|"
 msgid "Open an existing document"
-msgstr "Åbn et eksisterende dokument"
+msgstr "विद्यमानं दस्तावेजं उद्घाटयन्तु"
 
 #: gui/kstandardactions_p.h:69
 msgctxt "KStandardActions|"
 msgid "Open &Recent"
-msgstr "Åbn &nylige"
+msgstr "Open &Recent"
 
 #: gui/kstandardactions_p.h:69
 msgctxt "KStandardActions|"
 msgid "Open a document which was recently opened"
-msgstr "Åbn et dokument der er blevet åbnet for nyligt"
+msgstr "एकं दस्तावेजं उद्घाटयन्तु यत् अद्यैव उद्घाटितम् आसीत्"
 
 #: gui/kstandardactions_p.h:70
 msgctxt "KStandardActions|"
 msgid "&Save"
-msgstr "&Gem"
+msgstr "&रक्ष्"
 
 #: gui/kstandardactions_p.h:70
 msgctxt "KStandardActions|"
 msgid "Save document"
-msgstr "Gem dokument"
+msgstr "दस्तावेजं रक्षन्तु"
 
 #: gui/kstandardactions_p.h:71
 msgctxt "KStandardActions|"
 msgid "Save &As…"
-msgstr "Gem &som…"
+msgstr "Save &As…"
 
 #: gui/kstandardactions_p.h:71
 msgctxt "KStandardActions|"
 msgid "Save document under a new name"
-msgstr "Gem dokument under et nyt navn"
+msgstr "दस्तावेजं नूतननाम्ना रक्षन्तु"
 
 #: gui/kstandardactions_p.h:72
 msgctxt "KStandardActions|"
 msgid "Re&vert"
-msgstr "Vend &tilbage"
+msgstr "Re&vert"
 
 #: gui/kstandardactions_p.h:72
 msgctxt "KStandardActions|"
 msgid "Revert unsaved changes made to document"
-msgstr "Nulstil ikke-gemte ændringer af dokumentet"
+msgstr "दस्तावेजे कृतानि असरक्षितानि परिवर्तनानि प्रत्यागच्छन्तु"
 
 #: gui/kstandardactions_p.h:73
 msgctxt "KStandardActions|"
 msgid "&Close"
-msgstr "&Luk"
+msgstr "&पिधानं करोतु"
 
 #: gui/kstandardactions_p.h:73
 msgctxt "KStandardActions|"
 msgid "Close document"
-msgstr "Luk dokument"
+msgstr "दस्तावेजं बन्दं कुर्वन्तु"
 
 #: gui/kstandardactions_p.h:74
 msgctxt "KStandardActions|"
 msgid "&Print…"
-msgstr "&Udskriv…"
+msgstr "&मुद्रण…"
 
 #: gui/kstandardactions_p.h:74
 msgctxt "KStandardActions|"
 msgid "Print document"
-msgstr "Udskriv dokument"
+msgstr "दस्तावेजं मुद्रयन्तु"
 
 #: gui/kstandardactions_p.h:75
 msgctxt "KStandardActions|"
 msgid "Print Previe&w"
-msgstr "Vis udskrif&t"
+msgstr "मुद्रण पूर्वावलोकन&w"
 
 #: gui/kstandardactions_p.h:75
 msgctxt "KStandardActions|"
 msgid "Show a print preview of document"
-msgstr "Vis udskrift for et dokument"
+msgstr "दस्तावेजस्य मुद्रणपूर्वावलोकनं दर्शयतु"
 
 #: gui/kstandardactions_p.h:76
 msgctxt "KStandardActions|"
 msgid "&Mail…"
-msgstr "&Mail…"
+msgstr "&मेल…"
 
 #: gui/kstandardactions_p.h:76
 msgctxt "KStandardActions|"
 msgid "Send document by mail"
-msgstr "Send dokument via e-mail"
+msgstr "मेलद्वारा दस्तावेजं प्रेषयन्तु"
 
 #: gui/kstandardactions_p.h:77
 msgctxt "KStandardActions|"
 msgid "&Quit"
-msgstr "&Afslut"
+msgstr "&परिजहातु"
 
 #: gui/kstandardactions_p.h:77
 msgctxt "KStandardActions|"
 msgid "Quit application"
-msgstr "Afslut programmet"
+msgstr "अनुप्रयोगं त्यजतु"
 
 #: gui/kstandardactions_p.h:79
 msgctxt "KStandardActions|"
 msgid "&Undo"
-msgstr "&Fortryd"
+msgstr "&Undo"
 
 #: gui/kstandardactions_p.h:79
 msgctxt "KStandardActions|"
 msgid "Undo last action"
-msgstr "Fortryd seneste handling"
+msgstr "अन्तिमक्रिया पूर्ववर्ती"
 
 #: gui/kstandardactions_p.h:80
 msgctxt "KStandardActions|"
 msgid "Re&do"
-msgstr "Gen&dan"
+msgstr "पुनः&कर"
 
 #: gui/kstandardactions_p.h:80
 msgctxt "KStandardActions|"
 msgid "Redo last undone action"
-msgstr "Gendan seneste fortrudte handling"
+msgstr "अन्तिम अकृत क्रिया पुनः करो"
 
 #: gui/kstandardactions_p.h:81
 msgctxt "KStandardActions|"
 msgid "Cu&t"
-msgstr "K&lip"
+msgstr "सह&t"
 
 #: gui/kstandardactions_p.h:81
 msgctxt "KStandardActions|"
 msgid "Cut selection to clipboard"
-msgstr "Klip det markerede til udklipsholderen"
+msgstr "चयनं क्लिप्बोर्डं प्रति कटयन्तु"
 
 #: gui/kstandardactions_p.h:82
 msgctxt "KStandardActions|"
 msgid "&Copy"
-msgstr "&Kopiér"
+msgstr "&प्रतिलिपि"
 
 #: gui/kstandardactions_p.h:82
 msgctxt "KStandardActions|"
 msgid "Copy selection to clipboard"
-msgstr "Kopiér markering til udklipsholder"
+msgstr "चयनं क्लिप्बोर्ड् प्रति प्रतिलिख्यताम्"
 
 #: gui/kstandardactions_p.h:83
 msgctxt "KStandardActions|"
 msgid "&Paste"
-msgstr "&Indsæt"
+msgstr "&पेस्ट"
 
 #: gui/kstandardactions_p.h:83
 msgctxt "KStandardActions|"
 msgid "Paste clipboard content"
-msgstr "Indsæt indhold fra udklipsholder"
+msgstr "क्लिपबोर्ड सामग्रीं चिनोतु"
 
 #: gui/kstandardactions_p.h:84
 msgctxt "KStandardActions|"
 msgid "C&lear"
-msgstr "R&yd"
+msgstr "स्पष्टः"
 
 #: gui/kstandardactions_p.h:85
 msgctxt "KStandardActions|"
 msgid "Select &All"
-msgstr "Markér &alt"
+msgstr "&All इति चयनं कुर्वन्तु"
 
 #: gui/kstandardactions_p.h:86
 msgctxt "KStandardActions|"
 msgid "Dese&lect"
-msgstr "Fra&vælg"
+msgstr "Des&lect"
 
 #: gui/kstandardactions_p.h:87
 msgctxt "KStandardActions|"
 msgid "&Find…"
-msgstr "&Find…"
+msgstr "&अन्वेषय…"
 
 #: gui/kstandardactions_p.h:88
 msgctxt "KStandardActions|"
 msgid "Find &Next"
-msgstr "Find &næste"
+msgstr "Find &Next"
 
 #: gui/kstandardactions_p.h:89
 msgctxt "KStandardActions|"
 msgid "Find Pre&vious"
-msgstr "Find fo&rrige"
+msgstr "पूर्व&पूर्वं ज्ञातव्यम्"
 
 #: gui/kstandardactions_p.h:90
 msgctxt "KStandardActions|"
 msgid "&Replace…"
-msgstr "&Erstat…"
+msgstr "&प्रत्याहृ…"
 
 #: gui/kstandardactions_p.h:92
 msgctxt "KStandardActions|"
 msgid "Zoom to &Actual Size"
-msgstr "Zoom til &faktisk størrelse"
+msgstr "&Actual Size इत्यत्र जूम कुर्वन्तु"
 
 #: gui/kstandardactions_p.h:92
 msgctxt "KStandardActions|"
 msgid "View document at its actual size"
-msgstr "Se dokumentet i dets faktiske størrelse"
+msgstr "दस्तावेजं तस्य वास्तविक आकारे पश्यन्तु"
 
 #: gui/kstandardactions_p.h:93
 msgctxt "KStandardActions|"
 msgid "&Fit to Page"
-msgstr "&Pas til siden"
+msgstr "&पृष्ठं प्रति उपयुक्तम्"
 
 #: gui/kstandardactions_p.h:93
 msgctxt "KStandardActions|"
 msgid "Zoom to fit page in window"
-msgstr "Zoom så siden passer til vinduet"
+msgstr "विण्डो मध्ये पृष्ठं फिट् कर्तुं जूम कुर्वन्तु"
 
 #: gui/kstandardactions_p.h:94
 msgctxt "KStandardActions|"
 msgid "Fit to Page &Width"
-msgstr "Pas til side&bredden"
+msgstr "पृष्ठ & चौड़ाई अनुकूल"
 
 #: gui/kstandardactions_p.h:94
 msgctxt "KStandardActions|"
 msgid "Zoom to fit page width in window"
-msgstr "Zoom så sidens bredde passer til vinduet"
+msgstr "विण्डो मध्ये पृष्ठविस्तारं युक्तं कर्तुं जूम कुर्वन्तु"
 
 #: gui/kstandardactions_p.h:95
 msgctxt "KStandardActions|"
 msgid "Fit to Page &Height"
-msgstr "Tilpas til side&højden"
+msgstr "पृष्ठ &उच्चता अनुकूलता"
 
 #: gui/kstandardactions_p.h:95
 msgctxt "KStandardActions|"
 msgid "Zoom to fit page height in window"
-msgstr "Zoom så sidens højde passer til vinduet"
+msgstr "विण्डो मध्ये पृष्ठस्य ऊर्ध्वतां युक्तुं जूम् कुर्वन्तु"
 
 #: gui/kstandardactions_p.h:96
 msgctxt "KStandardActions|"
 msgid "Zoom &In"
-msgstr "Zoom &ind"
+msgstr "जूम &In"
 
 #: gui/kstandardactions_p.h:97
 msgctxt "KStandardActions|"
 msgid "Zoom &Out"
-msgstr "Zoom &ud"
+msgstr "जूम &आउट"
 
 #: gui/kstandardactions_p.h:98
 msgctxt "KStandardActions|"
 msgid "&Zoom…"
-msgstr "&Zoom…"
+msgstr "&ज़ूम…"
 
 #: gui/kstandardactions_p.h:98
 msgctxt "KStandardActions|"
 msgid "Select zoom level"
-msgstr "Vælg zoomniveau"
+msgstr "जूम स्तरं चिनोतु"
 
 #: gui/kstandardactions_p.h:99
 msgctxt "KStandardActions|"
 msgid "&Refresh"
-msgstr "&Genindlæs"
+msgstr "&ताजगी"
 
 #: gui/kstandardactions_p.h:99
 msgctxt "KStandardActions|"
 msgid "Refresh document"
-msgstr "Genindlæs dokument"
+msgstr "दस्तावेजं ताजगीं कुर्वन्तु"
 
 #: gui/kstandardactions_p.h:101
 msgctxt "KStandardActions|"
 msgid "&Up"
-msgstr "&Op"
+msgstr "&उपरि"
 
 #: gui/kstandardactions_p.h:101
 msgctxt "KStandardActions|"
 msgid "Go up"
-msgstr "Gå op"
+msgstr "उपरि गच्छतु"
 
 #: gui/kstandardactions_p.h:106
 msgctxt "KStandardActions|"
 msgid "&Previous Page"
-msgstr "&Forrige side"
+msgstr "&पूर्व पृष्ठ"
 
 #: gui/kstandardactions_p.h:106
 msgctxt "KStandardActions|"
 msgid "Go to previous page"
-msgstr "Gå til forrige side"
+msgstr "पूर्वपृष्ठं गच्छन्तु"
 
 #: gui/kstandardactions_p.h:107
 msgctxt "KStandardActions|"
 msgid "&Next Page"
-msgstr "&Næste side"
+msgstr "&अगला पृष्ठ"
 
 #: gui/kstandardactions_p.h:107
 msgctxt "KStandardActions|"
 msgid "Go to next page"
-msgstr "&Gå til næste side"
+msgstr "अग्रिमपृष्ठं गच्छन्तु"
 
 #: gui/kstandardactions_p.h:108
 msgctxt "KStandardActions|"
 msgid "&Go To…"
-msgstr "&Gå til…"
+msgstr "&Go To…"
 
 #: gui/kstandardactions_p.h:109
 msgctxt "KStandardActions|"
 msgid "&Go to Page…"
-msgstr "&Gå til side…"
+msgstr "&पृष्ठं गच्छन्तु…"
 
 #: gui/kstandardactions_p.h:110
 msgctxt "KStandardActions|"
 msgid "&Go to Line…"
-msgstr "&Gå til linje…"
+msgstr "&रेखायां गच्छन्तु…"
 
 #: gui/kstandardactions_p.h:111
 msgctxt "KStandardActions|"
 msgid "&First Page"
-msgstr "&Første side"
+msgstr "&प्रथम पृष्ठ"
 
 #: gui/kstandardactions_p.h:111
 msgctxt "KStandardActions|"
 msgid "Go to first page"
-msgstr "&Gå til første side"
+msgstr "प्रथमपृष्ठं गच्छन्तु"
 
 #: gui/kstandardactions_p.h:112
 msgctxt "KStandardActions|"
 msgid "&Last Page"
-msgstr "&Sidste side"
+msgstr "&अन्तिम पृष्ठ"
 
 #: gui/kstandardactions_p.h:112
 msgctxt "KStandardActions|"
 msgid "Go to last page"
-msgstr "Gå til sidste side"
+msgstr "अन्तिमपृष्ठं गच्छन्तु"
 
 #: gui/kstandardactions_p.h:113
 msgctxt "KStandardActions|"
 msgid "&Back"
-msgstr "&Tilbage"
+msgstr "&पृष्ठभागः"
 
 #: gui/kstandardactions_p.h:113
 msgctxt "KStandardActions|"
 msgid "Go back in document"
-msgstr "Gå tilbage i dokumentet"
+msgstr "दस्तावेजे पुनः गच्छन्तु"
 
 #: gui/kstandardactions_p.h:114
 msgctxt "KStandardActions|"
 msgid "&Forward"
-msgstr "&Frem"
+msgstr "&अग्रतः"
 
 #: gui/kstandardactions_p.h:114
 msgctxt "KStandardActions|"
 msgid "Go forward in document"
-msgstr "Gå frem i dokumentet"
+msgstr "दस्तावेजे अग्रे गच्छन्तु"
 
 #: gui/kstandardactions_p.h:116
 msgctxt "KStandardActions|"
 msgid "&Add Bookmark"
-msgstr "&Tilføj bogmærke"
+msgstr "&बुकमार्कं योजयतु"
 
 #: gui/kstandardactions_p.h:117
 msgctxt "KStandardActions|"
 msgid "&Edit Bookmarks…"
-msgstr "&Redigér bogmærker…"
+msgstr "&Edit बुकमार्क्स…"
 
 #: gui/kstandardactions_p.h:119
 msgctxt "KStandardActions|"
 msgid "&Spelling…"
-msgstr "&Stavekontrol…"
+msgstr "&वर्तनी…"
 
 #: gui/kstandardactions_p.h:119
 msgctxt "KStandardActions|"
 msgid "Check spelling in document"
-msgstr "Kør stavekontrol på dokumentet"
+msgstr "दस्तावेजे वर्तनीपरीक्षां कुर्वन्तु"
 
 #: gui/kstandardactions_p.h:121
 msgctxt "KStandardActions|"
 msgid "Show &Menubar"
-msgstr "Vis &menulinje"
+msgstr "शो & मेनूबार"
 
 #: gui/kstandardactions_p.h:121
 msgctxt "KStandardActions|"
 msgid "Show or hide menubar"
-msgstr "Vis eller skjul menulinje"
+msgstr "मेनूपट्टिकां दर्शयतु वा गोपयतु वा"
 
 #: gui/kstandardactions_p.h:122
 msgctxt "KStandardActions|"
 msgid "Show &Toolbar"
-msgstr "Vis &værktøjslinje"
+msgstr "&Toolbar दर्शयतु"
 
 #: gui/kstandardactions_p.h:122
 msgctxt "KStandardActions|"
 msgid "Show or hide toolbar"
-msgstr "Vis eller skjul værktøjslinje"
+msgstr "साधनपट्टिकां दर्शयतु वा गोपयतु वा"
 
 #: gui/kstandardactions_p.h:123
 msgctxt "KStandardActions|"
 msgid "Show St&atusbar"
-msgstr "Vis &statuslinje"
+msgstr "St&atusbar दर्शयतु"
 
 #: gui/kstandardactions_p.h:123
 msgctxt "KStandardActions|"
 msgid "Show or hide statusbar"
-msgstr "Vis elle skjul statuslinje"
+msgstr "स्थितिपट्टिकां दर्शयतु वा गोपयन्तु वा"
 
 #: gui/kstandardactions_p.h:124
 msgctxt "KStandardActions|"
 msgid "F&ull Screen Mode"
-msgstr "F&uldskærmstilstand"
+msgstr "F&ull स्क्रीन मोड"
 
 #: gui/kstandardactions_p.h:125
 msgctxt "KStandardActions|"
 msgid "Configure Keyboard S&hortcuts…"
-msgstr "Indstil tastaturg&enveje…"
+msgstr "कीबोर्ड S&hortcuts विन्यस्तं कुर्वन्तु…"
 
 #: gui/kstandardactions_p.h:126
 #, qt-format
 msgctxt "KStandardActions|"
 msgid "&Configure %1…"
-msgstr "&Indstil %1..."
+msgstr "&%1 विन्यस्तं कुर्वन्तु…"
 
 #: gui/kstandardactions_p.h:127
 msgctxt "KStandardActions|"
 msgid "Configure Tool&bars…"
-msgstr "Indstil værktøjs&linjer"
+msgstr "Tool&bars विन्यस्तं कुर्वन्तु…"
 
 #: gui/kstandardactions_p.h:128
 msgctxt "KStandardActions|"
 msgid "Configure &Notifications…"
-msgstr "Indstil &bekendtgørelser…"
+msgstr "&सूचनाः विन्यस्तं कुर्वन्तु…"
 
 #: gui/kstandardactions_p.h:132
 #, qt-format
 msgctxt "KStandardActions|"
 msgid "%1 &Handbook"
-msgstr "%1-&håndbogen"
+msgstr "%1 &हस्तपुस्तिका"
 
 #: gui/kstandardactions_p.h:133
 msgctxt "KStandardActions|"
 msgid "What's &This?"
-msgstr "Hvad er &dette?"
+msgstr "किम् &इदम् ?"
 
 #: gui/kstandardactions_p.h:134
 msgctxt "KStandardActions|"
 msgid "&Report Bug…"
-msgstr "&Rapportér programfejl…"
+msgstr "&रिपोर्ट बग…"
 
 #: gui/kstandardactions_p.h:135
 msgctxt "KStandardActions|"
 msgid "Configure &Language…"
-msgstr "Indstil &sprog..."
+msgstr "&Language विन्यस्तं कुर्वन्तु…"
 
 #: gui/kstandardactions_p.h:136
 #, qt-format
 msgctxt "KStandardActions|"
 msgid "&About %1"
-msgstr "&Om %1"
+msgstr "&%1 इत्यस्य विषये"
 
 #: gui/kstandardactions_p.h:137
 msgctxt "KStandardActions|"
 msgid "About &KDE"
-msgstr "Om &KDE"
+msgstr "विषये & WHERE इति"
 
 #: gui/kstandardactions_p.h:138
 msgctxt "KStandardActions|"
 msgid "&Delete"
-msgstr "&Slet"
+msgstr "&लुप्"
 
 #: gui/kstandardactions_p.h:139
 msgctxt "KStandardActions|"
 msgid "&Rename…"
-msgstr "&Omdøb…"
+msgstr "&पुनर्नाम…"
 
 #: gui/kstandardactions_p.h:140
 msgctxt "KStandardActions|"
 msgid "&Move to Trash"
-msgstr "&Flyt til papirkurv"
+msgstr "&कचरा प्रति गच्छतु"
 
 #: gui/kstandardactions_p.h:141
 msgctxt "KStandardActions|"
 msgid "&Donate"
-msgstr "&Donér"
+msgstr "&वितरणं"
 
 #: gui/kstandardactions_p.h:142
 msgctxt "KStandardActions|"
 msgid "Open &Menu"
-msgstr "Åbn &menu"
+msgstr "&Menu उद्घाटयन्तु"
 
 #: gui/kstandardshortcut.cpp:70
 msgctxt "KStandardShortcut|@action"
 msgid "Open"
-msgstr "Åbn"
+msgstr "उद्घाटित"
 
 #: gui/kstandardshortcut.cpp:71
 msgctxt "KStandardShortcut|@action"
 msgid "New"
-msgstr "Ny"
+msgstr "नूतनम्‌"
 
 #: gui/kstandardshortcut.cpp:72
 msgctxt "KStandardShortcut|@action"
 msgid "Close"
-msgstr "Luk"
+msgstr "पिधानं करोतु"
 
 #: gui/kstandardshortcut.cpp:73
 msgctxt "KStandardShortcut|@action"
 msgid "Save"
-msgstr "Gem"
+msgstr "रक्ष्"
 
 #: gui/kstandardshortcut.cpp:74
 msgctxt "KStandardShortcut|@action"
 msgid "Print"
-msgstr "Udskriv"
+msgstr "मुद्रणम्"
 
 #: gui/kstandardshortcut.cpp:75
 msgctxt "KStandardShortcut|@action"
 msgid "Quit"
-msgstr "Afslut"
+msgstr "परिजहातु"
 
 #: gui/kstandardshortcut.cpp:78
 msgctxt "KStandardShortcut|@action"
 msgid "Undo"
-msgstr "Fortryd"
+msgstr "पूर्ववत"
 
 #: gui/kstandardshortcut.cpp:79
 msgctxt "KStandardShortcut|@action"
 msgid "Redo"
-msgstr "Gendan"
+msgstr "पुनः करो"
 
 #: gui/kstandardshortcut.cpp:82
 msgctxt "KStandardShortcut|@action"
 msgid "Cut"
-msgstr "Klip"
+msgstr "छिन्न"
 
 #: gui/kstandardshortcut.cpp:83
 msgctxt "KStandardShortcut|@action"
 msgid "Copy"
-msgstr "Kopiér"
+msgstr "प्रतिलिपि"
 
 #: gui/kstandardshortcut.cpp:84
 msgctxt "KStandardShortcut|@action"
 msgid "Paste"
-msgstr "Indsæt"
+msgstr "चिनोतु"
 
 #: gui/kstandardshortcut.cpp:87
 msgctxt "KStandardShortcut|@action"
 msgid "Paste Selection"
-msgstr "Indsæt markering"
+msgstr "पेस्ट चयन"
 
 #: gui/kstandardshortcut.cpp:94
 msgctxt "KStandardShortcut|@action"
 msgid "Select All"
-msgstr "Markér alt"
+msgstr "All इति चिनोतु"
 
 #: gui/kstandardshortcut.cpp:95
 msgctxt "KStandardShortcut|@action"
 msgid "Deselect"
-msgstr "Fravælg"
+msgstr "विचयनं कुर्वन्तु"
 
 #: gui/kstandardshortcut.cpp:98
 msgctxt "KStandardShortcut|@action"
 msgid "Delete Word Backwards"
-msgstr "Slet ord baglæns"
+msgstr "शब्दं पृष्ठतः विलोपयन्तु"
 
 #: gui/kstandardshortcut.cpp:106
 msgctxt "KStandardShortcut|@action"
 msgid "Delete Word Forward"
-msgstr "Slet ord forlæns"
+msgstr "शब्द अग्रे विलोपयन्तु"
 
 #: gui/kstandardshortcut.cpp:113
 msgctxt "KStandardShortcut|@action"
 msgid "Find"
-msgstr "Find"
+msgstr "अन्वेषय"
 
 #: gui/kstandardshortcut.cpp:114
 msgctxt "KStandardShortcut|@action"
 msgid "Find Next"
-msgstr "Find næste"
+msgstr "अग्रिमम् अन्वेष्टुम्"
 
 #: gui/kstandardshortcut.cpp:115
 msgctxt "KStandardShortcut|@action"
 msgid "Find Prev"
-msgstr "Find forrige"
+msgstr "Find Prev"
 
 #: gui/kstandardshortcut.cpp:116
 msgctxt "KStandardShortcut|@action"
 msgid "Replace"
-msgstr "Erstat"
+msgstr "प्रत्याहृ"
 
 #: gui/kstandardshortcut.cpp:121
 msgctxt "KStandardShortcut|@action Go to main page"
 msgid "Home"
-msgstr "Hjem"
+msgstr "गृहम्‌"
 
 #: gui/kstandardshortcut.cpp:129
 msgctxt "KStandardShortcut|@action Beginning of document"
 msgid "Begin"
-msgstr "Begynd"
+msgstr "आरम्भ"
 
 #: gui/kstandardshortcut.cpp:135
 msgctxt "KStandardShortcut|@action End of document"
 msgid "End"
-msgstr "Slutning"
+msgstr "अंत"
 
 #: gui/kstandardshortcut.cpp:136
 msgctxt "KStandardShortcut|@action"
 msgid "Prior"
-msgstr "Før"
+msgstr "पूर्वतर"
 
 #: gui/kstandardshortcut.cpp:139
 msgctxt "KStandardShortcut|@action Opposite to Prior"
 msgid "Next"
-msgstr "Næste"
+msgstr "अग्रिम"
 
 #: gui/kstandardshortcut.cpp:146
 msgctxt "KStandardShortcut|@action"
 msgid "Up"
-msgstr "Op"
+msgstr "उपरि"
 
 #: gui/kstandardshortcut.cpp:147
 msgctxt "KStandardShortcut|@action"
 msgid "Back"
-msgstr "Tilbage"
+msgstr "पृष्ठभागः"
 
 #: gui/kstandardshortcut.cpp:150
 msgctxt "KStandardShortcut|@action"
 msgid "Forward"
-msgstr "Frem"
+msgstr "अग्रतः"
 
 #: gui/kstandardshortcut.cpp:158
 msgctxt "KStandardShortcut|@action"
 msgid "Reload"
-msgstr "Genindlæs"
+msgstr "पुनः लोड करें"
 
 #: gui/kstandardshortcut.cpp:167
 msgctxt "KStandardShortcut|@action"
 msgid "Beginning of Line"
-msgstr "Linjestart"
+msgstr "रेखायाः आरम्भः"
 
 #: gui/kstandardshortcut.cpp:175
 msgctxt "KStandardShortcut|@action"
 msgid "End of Line"
-msgstr "Linjeafslutning"
+msgstr "रेखायाः अन्तः"
 
 #: gui/kstandardshortcut.cpp:181
 msgctxt "KStandardShortcut|@action"
 msgid "Go to Line"
-msgstr "Gå til linje"
+msgstr "Line इति गच्छन्तु"
 
 #: gui/kstandardshortcut.cpp:184
 msgctxt "KStandardShortcut|@action"
 msgid "Backward Word"
-msgstr "Et ord tilbage"
+msgstr "पिछड़ा शब्द"
 
 #: gui/kstandardshortcut.cpp:192
 msgctxt "KStandardShortcut|@action"
 msgid "Forward Word"
-msgstr "Et ord frem"
+msgstr "अग्रे शब्दः"
 
 #: gui/kstandardshortcut.cpp:201
 msgctxt "KStandardShortcut|@action"
 msgid "Add Bookmark"
-msgstr "Tilføj bogmærke"
+msgstr "बुकमार्कं योजयतु"
 
 #: gui/kstandardshortcut.cpp:207
 msgctxt "KStandardShortcut|@action"
 msgid "Zoom In"
-msgstr "Zoom ind"
+msgstr "Zoom In इति"
 
 #: gui/kstandardshortcut.cpp:208
 msgctxt "KStandardShortcut|@action"
 msgid "Zoom Out"
-msgstr "Zoom ud"
+msgstr "Zoom Out इति"
 
 #: gui/kstandardshortcut.cpp:211
 msgctxt "KStandardShortcut|@action"
 msgid "Full Screen Mode"
-msgstr "Fuldskærmstilstand"
+msgstr "पूर्ण स्क्रीन मोड"
 
 #: gui/kstandardshortcut.cpp:218
 msgctxt "KStandardShortcut|@action"
 msgid "Show Menu Bar"
-msgstr "Vis menulinje"
+msgstr "मेनू पट्टिकां दर्शयतु"
 
 #: gui/kstandardshortcut.cpp:221
 msgctxt "KStandardShortcut|@action"
 msgid "Activate Next Tab"
-msgstr "Aktivér næste faneblad"
+msgstr "अग्रिम ट्याब् सक्रियं कुर्वन्तु"
 
 #: gui/kstandardshortcut.cpp:229
 msgctxt "KStandardShortcut|@action"
 msgid "Activate Previous Tab"
-msgstr "Aktivér forrige faneblad"
+msgstr "पूर्व ट्याब् सक्रियं कुर्वन्तु"
 
 #: gui/kstandardshortcut.cpp:237
 msgctxt "KStandardShortcut|@action"
 msgid "Help"
-msgstr "Hjælp"
+msgstr "साहाय्यम्‌"
 
 #: gui/kstandardshortcut.cpp:238
 msgctxt "KStandardShortcut|@action"
 msgid "What's This"
-msgstr "Hvad er dette"
+msgstr "किम् एतत्"
 
 #: gui/kstandardshortcut.cpp:243
 msgctxt "KStandardShortcut|@action"
 msgid "Text Completion"
-msgstr "Tekstfuldførelse"
+msgstr "पाठसमाप्तिः"
 
 #: gui/kstandardshortcut.cpp:251
 msgctxt "KStandardShortcut|@action"
 msgid "Previous Completion Match"
-msgstr "Forrige fuldførelsesmatch"
+msgstr "पूर्व समाप्ति मेल"
 
 #: gui/kstandardshortcut.cpp:259
 msgctxt "KStandardShortcut|@action"
 msgid "Next Completion Match"
-msgstr "Næste fuldførelsesmatch"
+msgstr "अग्रिमः समाप्तिमेलनम्"
 
 #: gui/kstandardshortcut.cpp:267
 msgctxt "KStandardShortcut|@action"
 msgid "Substring Completion"
-msgstr "Fuldførelse af delstreng"
+msgstr "उपतार सम्पूर्णता"
 
 #: gui/kstandardshortcut.cpp:276
 msgctxt "KStandardShortcut|@action"
 msgid "Previous Item in List"
-msgstr "Forrige punkt på listen"
+msgstr "सूचीयां पूर्वः मदः"
 
 #: gui/kstandardshortcut.cpp:284
 msgctxt "KStandardShortcut|@action"
 msgid "Next Item in List"
-msgstr "Næste punkt på listen"
+msgstr "List मध्ये अग्रिमः मदः"
 
 #: gui/kstandardshortcut.cpp:291
 msgctxt "KStandardShortcut|@action"
 msgid "Open Recent"
-msgstr "Åbn nylige"
+msgstr "Open Recent इति"
 
 #: gui/kstandardshortcut.cpp:292
 msgctxt "KStandardShortcut|@action"
 msgid "Save As"
-msgstr "Gem som"
+msgstr "As Save As इति"
 
 #: gui/kstandardshortcut.cpp:293
 msgctxt "KStandardShortcut|@action"
 msgid "Revert"
-msgstr "Vend tilbage"
+msgstr "प्रत्यावर्तयतु"
 
 #: gui/kstandardshortcut.cpp:294
 msgctxt "KStandardShortcut|@action"
 msgid "Print Preview"
-msgstr "Vis udskrift"
+msgstr "मुद्रण पूर्वावलोकनम्"
 
 #: gui/kstandardshortcut.cpp:295
 msgctxt "KStandardShortcut|@action"
 msgid "Mail"
-msgstr "Mail"
+msgstr "मेल"
 
 #: gui/kstandardshortcut.cpp:296
 msgctxt "KStandardShortcut|@action"
 msgid "Clear"
-msgstr "Ryd"
+msgstr "स्पष्टः"
 
 #: gui/kstandardshortcut.cpp:299
 msgctxt "KStandardShortcut|@action"
 msgid "Zoom to Actual Size"
-msgstr "Zoom til faktisk størrelse"
+msgstr "वास्तविक आकारं प्रति जूम कुर्वन्तु"
 
 #: gui/kstandardshortcut.cpp:305
 msgctxt "KStandardShortcut|@action"
 msgid "Fit To Page"
-msgstr "Pas til siden"
+msgstr "पृष्ठं प्रति फिट्"
 
 #: gui/kstandardshortcut.cpp:306
 msgctxt "KStandardShortcut|@action"
 msgid "Fit To Width"
-msgstr "Pas til bredden"
+msgstr "Fit To Width इति"
 
 #: gui/kstandardshortcut.cpp:307
 msgctxt "KStandardShortcut|@action"
 msgid "Fit To Height"
-msgstr "Pas til højden"
+msgstr "Fit To Height इति"
 
 #: gui/kstandardshortcut.cpp:308
 msgctxt "KStandardShortcut|@action"
 msgid "Zoom"
-msgstr "Zoom"
+msgstr "जूम"
 
 #: gui/kstandardshortcut.cpp:309
 msgctxt "KStandardShortcut|@action"
 msgid "Goto"
-msgstr "Gå til"
+msgstr "गोटो"
 
 #: gui/kstandardshortcut.cpp:310
 msgctxt "KStandardShortcut|@action"
 msgid "Goto Page"
-msgstr "Gå til side"
+msgstr "पृष्ठं गच्छतु"
 
 #: gui/kstandardshortcut.cpp:313
 msgctxt "KStandardShortcut|@action"
 msgid "Document Back"
-msgstr "Dokument tilbage"
+msgstr "Document Back इति"
 
 #: gui/kstandardshortcut.cpp:321
 msgctxt "KStandardShortcut|@action"
 msgid "Document Forward"
-msgstr "Dokument frem"
+msgstr "दस्तावेज अग्रे"
 
 #: gui/kstandardshortcut.cpp:329
 msgctxt "KStandardShortcut|@action"
 msgid "Edit Bookmarks"
-msgstr "Redigér bogmærker"
+msgstr "बुकमार्क सम्पादयतु"
 
 #: gui/kstandardshortcut.cpp:335
 msgctxt "KStandardShortcut|@action"
 msgid "Spelling"
-msgstr "Stavekontrol"
+msgstr "वर्तनी"
 
 #: gui/kstandardshortcut.cpp:336
 msgctxt "KStandardShortcut|@action"
 msgid "Show Toolbar"
-msgstr "Vis værktøjslinje"
+msgstr "Toolbar दर्शयतु"
 
 #: gui/kstandardshortcut.cpp:337
 msgctxt "KStandardShortcut|@action"
 msgid "Show Statusbar"
-msgstr "Vis statuslinje"
+msgstr "स्थितिपट्टिकां दर्शयतु"
 
 #: gui/kstandardshortcut.cpp:340
 msgctxt "KStandardShortcut|@action"
 msgid "Key Bindings"
-msgstr "Tastebindinger"
+msgstr "की बन्धन"
 
 #: gui/kstandardshortcut.cpp:348
 msgctxt "KStandardShortcut|@action"
 msgid "Configure Application"
-msgstr "Indstil program"
+msgstr "अनुप्रयोगं विन्यस्तं कुर्वन्तु"
 
 #: gui/kstandardshortcut.cpp:356
 msgctxt "KStandardShortcut|@action"
 msgid "Configure Toolbars"
-msgstr "Indstil værktøjslinjer"
+msgstr "Toolbars विन्यस्तं कुर्वन्तु"
 
 #: gui/kstandardshortcut.cpp:364
 msgctxt "KStandardShortcut|@action"
 msgid "Configure Notifications"
-msgstr "Indstil bekendtgørelser"
+msgstr "सूचनाः विन्यस्यताम्"
 
 #: gui/kstandardshortcut.cpp:370
 msgctxt "KStandardShortcut|@action"
 msgid "Report Bug"
-msgstr "Rapportér programfejl"
+msgstr "बगस्य सूचनां ददातु"
 
 #: gui/kstandardshortcut.cpp:373
 msgctxt "KStandardShortcut|@action"
 msgid "Configure Language…"
-msgstr "&Indstil sprog..."
+msgstr "भाषा विन्यस्तं कुर्वन्तु…"
 
 #: gui/kstandardshortcut.cpp:379
 msgctxt "KStandardShortcut|@action"
 msgid "About Application"
-msgstr "Om programmet"
+msgstr "अनुप्रयोगस्य विषये"
 
 #: gui/kstandardshortcut.cpp:380
 msgctxt "KStandardShortcut|@action"
 msgid "About KDE"
-msgstr "Om KDE"
+msgstr "KDE विषये"
 
 #: gui/kstandardshortcut.cpp:383
 msgctxt "KStandardShortcut|@action"
 msgid "Delete"
-msgstr "Slet"
+msgstr "लुप्"
 
 #: gui/kstandardshortcut.cpp:384
 msgctxt "KStandardShortcut|@action"
 msgid "Rename"
-msgstr "Omdøb"
+msgstr "पुनर्नाम"
 
 #: gui/kstandardshortcut.cpp:387
 msgctxt "KStandardShortcut|@action"
 msgid "Move to Trash"
-msgstr "Flyt til papirkurv"
+msgstr "Trash इत्यत्र गच्छन्तु"
 
 #: gui/kstandardshortcut.cpp:393
 msgctxt "KStandardShortcut|@action"
 msgid "Donate"
-msgstr "Donér"
+msgstr "वितरणं"
 
 #: gui/kstandardshortcut.cpp:396
 msgctxt "KStandardShortcut|@action"
 msgid "Show/Hide Hidden Files"
-msgstr "Vis/skjul skjulte filer"
+msgstr "गुप्तसञ्चिकाः दर्शयन्तु/गोपयन्तु"
 
 #: gui/kstandardshortcut.cpp:404
 msgctxt "KStandardShortcut|@action"
 msgid "Create Folder"
-msgstr "Opret mappe"
+msgstr "Folder रचयन्तु"
 
 #: gui/kstandardshortcut.cpp:412
 msgctxt ""
 "KStandardShortcut|@action referring to the menu bar or a hamburger menu"
 msgid "Open Main Menu"
-msgstr "Åbn hovedmenu"
+msgstr "मुख्यमेनू उद्घाटयन्तु"
 
 #: gui/kstandardshortcut.cpp:420
 msgctxt "KStandardShortcut|@action"
 msgid "Open Context Menu"
-msgstr "Åbn kontekstmenu"
+msgstr "सन्दर्भ मेनू उद्घाटयन्तु"
 
 #: kconf_update/kconf_update.cpp:368
 msgctxt "main|"
 msgid "KDE Tool for updating user configuration files"
-msgstr "KDE-værktøj til opdatering af brugerindstillingsfiler"
+msgstr "उपयोक्तृविन्याससञ्चिकानां अद्यतनीकरणाय KDE साधनम्"
 
 #: kconf_update/kconf_update.cpp:370
 msgctxt "main|"
 msgid "Keep output results from scripts"
-msgstr "Behold output-resultater fra scripts"
+msgstr "स्क्रिप्ट्-तः आउटपुट्-परिणामान् रक्षन्तु"
 
 #: kconf_update/kconf_update.cpp:373
 msgctxt "main|"
@@ -974,36 +965,38 @@ msgid ""
 "For unit tests only: do not write the done entries, so that with every re-"
 "run, the scripts are executed again"
 msgstr ""
+"केवलं एककपरीक्षाणां कृते: कृताः प्रविष्टयः न लिखन्तु, येन प्रत्येकं पुनः चालनेन सह, स्क्रिप्ट् पुनः "
+"निष्पादिताः भवन्ति"
 
 #: kconf_update/kconf_update.cpp:375
 msgctxt "main|"
 msgid "Check whether config file itself requires updating"
-msgstr "Undersøg om config-filen selv kræver opdatering"
+msgstr "config सञ्चिकायाः एव अद्यतनीकरणस्य आवश्यकता अस्ति वा इति पश्यन्तु"
 
 #: kconf_update/kconf_update.cpp:378
 msgctxt "main|"
 msgid "File(s) to read update instructions from"
-msgstr "Filer at læse opdateringsinstruktioner fra"
+msgstr "अद्यतननिर्देशान् पठितुं सञ्चिका(सञ्चिकाः)"
 
 #: kconfig_compiler/kconfig_compiler.cpp:726
 msgctxt "main|"
 msgid "Directory to generate files in [.]"
-msgstr "Mappe som der skal genereres filer i [.]"
+msgstr "[.] इत्यस्मिन् सञ्चिकाः जनयितुं निर्देशिका ।"
 
 #: kconfig_compiler/kconfig_compiler.cpp:727
 msgctxt "main|"
 msgid "directory"
-msgstr "mappe"
+msgstr "निर्देशिका"
 
 #: kconfig_compiler/kconfig_compiler.cpp:731
 msgctxt "main|"
 msgid "Display software license."
-msgstr "Vis softwarelicens"
+msgstr "सॉफ्टवेयर अनुज्ञापत्रं प्रदर्शयन्तु।"
 
 #: kreadconfig/kreadconfig.cpp:46 kreadconfig/kwriteconfig.cpp:25
 msgctxt "main|"
 msgid "Use <file> instead of global config"
-msgstr "Brug <file> i stedet for global config"
+msgstr "वैश्विकविन्यासस्य स्थाने <file> इत्यस्य उपयोगं कुर्वन्तु"
 
 #: kreadconfig/kreadconfig.cpp:49 kreadconfig/kwriteconfig.cpp:28
 msgctxt "main|"
@@ -1011,28 +1004,28 @@ msgid ""
 "Group to look in. Use \"<default>\" for the root group, or use repeatedly "
 "for nested groups."
 msgstr ""
-"Gruppe at kigge i. Brug \"<default>\" for root-gruppen eller brug gentagne "
-"gange for indskudte grupper."
+"समूहं द्रष्टुं मूलसमूहस्य कृते \"<default>\" इत्यस्य उपयोगं कुर्वन्तु, अथवा नेस्टेड् समूहानां कृते पुनः "
+"पुनः उपयोगं कुर्वन्तु ।"
 
 #: kreadconfig/kreadconfig.cpp:52 kreadconfig/kwriteconfig.cpp:31
 msgctxt "main|"
 msgid "Key to look for"
-msgstr "Tast at kigge efter"
+msgstr "अन्वेष्टुं कुञ्जी"
 
 #: kreadconfig/kreadconfig.cpp:53
 msgctxt "main|"
 msgid "Default value"
-msgstr "Standardværdi"
+msgstr "पूर्वनिर्धारितं मूल्यम्"
 
 #: kreadconfig/kreadconfig.cpp:54
 msgctxt "main|"
 msgid "Type of variable"
-msgstr "Type af variabel"
+msgstr "चरस्य प्रकारः"
 
 #: kreadconfig/kreadconfig.cpp:84 kreadconfig/kwriteconfig.cpp:69
 msgctxt "main|"
 msgid "Group name cannot be empty, use \"<default>\" for the root group"
-msgstr "Gruppenavne kan ikke være tomme, brug \"<default>\" for root-gruppen"
+msgstr "समूहनाम रिक्तं न भवितुम् अर्हति, मूलसमूहस्य कृते \"<default>\" इत्यस्य उपयोगं कुर्वन्तु"
 
 #: kreadconfig/kwriteconfig.cpp:34
 msgctxt "main|"
@@ -1040,57 +1033,15 @@ msgid ""
 "Type of variable. Use \"bool\" for a boolean, otherwise it is treated as a "
 "string"
 msgstr ""
-"Variabeltype. Brug \"bool\" for en boolesk, ellers behandles den som en "
-"streng"
+"चरस्य प्रकारः । बूलियनस्य कृते \"bool\" इत्यस्य उपयोगं कुर्वन्तु, अन्यथा तत् स्ट्रिंग् इव "
+"व्यवह्रियते"
 
 #: kreadconfig/kwriteconfig.cpp:36
 msgctxt "main|"
 msgid "Delete the designated key if enabled"
-msgstr "Slet den tildelte nøgle hvis aktiveret"
+msgstr "यदि सक्षमं भवति तर्हि निर्दिष्टं कीलं विलोपयन्तु"
 
 #: kreadconfig/kwriteconfig.cpp:37
 msgctxt "main|"
 msgid "The value to write. Mandatory, on a shell use '' for empty"
-msgstr "Værdien der skal skrives. Krævet, i en skal bruges '' for tom"
-
-#~ msgctxt "KStandardShortcut|@action"
-#~ msgid "Tip Of Day"
-#~ msgstr "Dagens tip"
-
-#~ msgctxt "main|"
-#~ msgid ""
-#~ "For unit tests only: use test directories to stay away from the user's "
-#~ "real files"
-#~ msgstr ""
-#~ "Kun til enhedstester: Brug testmapper for at holde dig fra brugerens "
-#~ "rigtige filer"
-
-#~ msgctxt "KStandardShortcut|@action"
-#~ msgid "Save Options"
-#~ msgstr "Gem indstillinger"
-
-#~ msgctxt "KStandardShortcut|@action"
-#~ msgid "Switch Application Language"
-#~ msgstr "Skift programsprog"
-
-#~ msgctxt "KStandardShortcut|@action"
-#~ msgid "Preferences"
-#~ msgstr "Indstillinger"
-
-#~ msgid "KWriteConfig"
-#~ msgstr "KWriteConfig"
-
-#~ msgid "Write KConfig entries - for use in shell scripts"
-#~ msgstr "Skriv KConfig-indgange - til brug i skal-scripts"
-
-#~ msgid "(c) 2001 Red Hat, Inc. & Luís Pedro Coelho"
-#~ msgstr "(c) 2001 Red Hat, Inc. & Luís Pedro Coelho"
-
-#~ msgid "Wrote kreadconfig on which this is based"
-#~ msgstr "Skrev kreadconfig som dette er baseret på"
-
-#~ msgid "Luís Pedro Coelho"
-#~ msgstr "Luís Pedro Coelho"
-
-#~ msgid "Bernhard Rosenkraenzer"
-#~ msgstr "Bernhard Rosenkraenzer"
+msgstr "लिखितव्यं मूल्यम् । अनिवार्यम्, एकस्मिन् शंखे '' रिक्तस्य कृते प्रयोगः"
